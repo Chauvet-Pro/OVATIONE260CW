@@ -9,7 +9,7 @@
 [V2.20210419 - Ovation E-260CW](https://github.com/Chauvet-Pro/OVATIONE260CW/blob/18c6d388aaae4356522843d591015b67c289dc0c/firmware/V2.20210419.zip)
 - For UID recognition only
 
-[V2.0 - Ovation E-260CW](https://github.com/Chauvet-Pro/OVATIONE260CW/blob/18c6d388aaae4356522843d591015b67c289dc0c/firmware/V2.0.zip]
+[V2.0 - Ovation E-260CW](https://github.com/Chauvet-Pro/OVATIONE260CW/blob/18c6d388aaae4356522843d591015b67c289dc0c/firmware/V2.0.zip)
 - Revised personalities; added Dimmer Curves
 
 [V1.2 - Ovation E-260CW](https://github.com/Chauvet-Pro/OVATIONE260CW/blob/18c6d388aaae4356522843d591015b67c289dc0c/firmware/V1.2.zip)
