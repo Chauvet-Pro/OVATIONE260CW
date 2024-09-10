@@ -1,5 +1,8 @@
 # Ovation E-260CW
 
+### ***Please use UPLOAD 03 to update the Ovation E-260CW software, or to fix partial or total firmware failure.***
+&nbsp;
+
 ## Software Versions
 
 [V2.3.0 - Ovation E-260CW](https://github.com/Chauvet-Pro/OVATIONE260CW/blob/24223f8050af873aa24da0ffba458b71cab29b9e/firmware/V2.3.0.zip)
